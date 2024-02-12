@@ -103,14 +103,30 @@ I am also responsible for:
   <br> • Establishing internal quality engineering community
   <br> • Writing beta testing process and handling feedback from external users
   <br> • Monitor and propose resouring related changes such as engineers, hardware, software or tooling
-
 <br><br>
 
 `2018-2022`
 __<a href="https://www.f-secure.com/en/partners/solutions-and-services/connected-home-security">F-Secure Sense & Sense SDK <i class="fa-solid fa-link"></i></a>__ (Connected Home Security)
 
-Cras varius accumsan augue, quis lacinia lectus rutrum vel. Ut id justo nulla. Nunc rutrum turpis sed feugiat suscipit. Nullam elit sapien, auctor vitae erat non, dignissim bibendum justo. Pellentesque accumsan sem sed turpis viverra, ut tempus lacus dignissim. Curabitur blandit ipsum porttitor libero sodales, eu volutpat orci scelerisque. Nulla facilisi. Duis tempor risus eu mauris viverra, ultrices finibus lacus volutpat. Nulla rhoncus ex vitae ultrices cursus. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Quisque lobortis at nibh scelerisque tempus. Nulla condimentum eros a tellus porta condimentum. Maecenas vulputate ante justo, et lobortis est interdum in. Maecenas eget nulla nec sem euismod laoreet. 
-<br><br>
+F-Secure Sense is an embedded security product inside a home router that protects all devices that are connected to its network.
+
+As a Lead Quality Engineer for this product, I am responsible for
+  <br> • Design, plan and define quality assurance related activities.
+  <br> • Coordinate, track and execute testing and release related activities.
+  <br> • Propose, write and manage quality assurance and release related backlog (Jira, Xray).
+  <br> • Propose, write and enforce product sub-component end-to-end release processes.
+  <br> • Perform exploratory, functional and non-functional testing on mobile apps (Android, iOS).
+  <br> • Perform exploratory, functional and non-functional testing on integrated software and firmware of internal and various 3rd party router manufacturers and models (embedded Linux, OpenWRT, LXC container, docker container).
+  <br> • Define and review test automation scripts (Bash, Python, Robot framework, Pytest).
+  <br> • Configure, review and maintain continuous integration system (Jenkins, bash, SSH).
+  <br> • Configure and set-up networking test lab (Routers, Extenders, Switches, CDRouter, Proxmox) and adhoc test environment, VMware Fusion, Virtualbox, Raspberry Pi).
+  <br> • Query analytics data (Amazon Redshift), visualize them (Redash) and utilize them for decision making and monitoring.
+  <br> • Document, communicate, track and manage product defects (Jira)
+  <br> • Periodically communicate quality assurance related status to internal and external stakeholders.
+  <br> • Participate in product design and requirements discussions with internal and external stakeholders.
+  <br> • Participate in project related meeting with external technology partners (manufacturers, operators).
+  <br> • Provide product training and consultation to customer supports, service manager and sales engineer.
+  <br> • Embrace multi-corporation release process and cycle (internal development, external manufacturers and operators)<br><br>
 
 `2014-2018`
 __<a href="https://www.f-secure.com/en/vpn">F-Secure Freedome VPN & VPN SDK <i class="fa-solid fa-link"></i></a>__ (Privacy Protection)
