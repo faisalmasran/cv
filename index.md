@@ -75,13 +75,32 @@ __<a href="https://www.f-secure.com/en">F-Secure Corp. (M) Sdn. Bhd., Kuala Lump
 `2015-2022`
 __Quality Engineering Line Manager__
 
-While working as a Senior and Lead Quality Engineer, I also assigned with a parallel role as a line manager for the quality engineers in my team. I was responsible for recruiting, managing and mentoring full-time employee as well as fixed-term contractors and trainees. I conduct bi-weekly one-on-one meeting with my sub-ordinates mainly to listen about what and how I can help them with their work and technical competencies. I discuss and agree about their career objective and provide technical and mental support for them to archieve the goal. From a wider perspective, I evaluate and make proposal if there any need for new resources in terms of engineers, hardwares or softwares.
+While working as a Senior and Lead Quality Engineer, I also assigned with a parallel role as a line manager for the quality engineers in my team.
+
+I am responsible to:
+  <br> • Recruit, relocate, and manage quality engineering talents on a global scale ranging from interns to senior level engineers.
+  <br> • Build and align quality engineering competencies in line with product and company vision as well as technological needs.
+  <br> • Listen, understand, advise and encourage sub-ordinate whenever needed and provide reasonable compromise.
+  <br> • Conduct periodic one-on-one session with sub-ordinate to recognized and acknowledge their progress and effort.
+  <br> • Propose and write justification for merit, reward or promotion of well deserving sub-ordinates.
+  <br> • Manage test resources such as allocating testers as well as test hardware, software, and labs.
+  <br> • Negotiate and agree on quality engineering related needs with internal and external stakeholders.
+  <br> • Research and propose quality engineering tooling and infrastructure need and provide cost estimation.
+  <br> • Mentor and provide advise other line managers.
 <br><br>
 
 `2011-2012`
 __Chief Quality Engineer__
 
-While working as a Quality Engineer in the regional office in different timezone, I am responsible to allocate and mentoring quality engineers and trainee to any project that need them. I monitor the resourcing status and report back to the main office if there are any new need or lack thereof. In terms of product related work, I conduct bi-weekly meeting with quality engineers from multiple teams and produce product quality status report.
+While working as a Quality Engineer in the regional office in different timezone, I was also assigned with a parallel role as a chief quality engineer
+
+I am responsible to:
+  <br> • Planning and coordinating testing activities across few feature teams.
+  <br> • Share and present local quality assurance status report (KUL) with other regions (HEL).
+  <br> • Managing quality engineering talents and test environment resources.
+  <br> • Administer defect tracking system (Jira) and continues integration system (Hudson/Jenkins).
+  <br> • Maintaining testing website domain and contents (fstestdomain, godaddy)
+  <br> • Local “lean” agent
 <br><br>
 
 
@@ -126,7 +145,8 @@ As a Lead Quality Engineer for this product, I am responsible for
   <br> • Participate in product design and requirements discussions with internal and external stakeholders.
   <br> • Participate in project related meeting with external technology partners (manufacturers, operators).
   <br> • Provide product training and consultation to customer supports, service manager and sales engineer.
-  <br> • Embrace multi-corporation release process and cycle (internal development, external manufacturers and operators)<br><br>
+  <br> • Embrace multi-corporation release process and cycle (internal development, external manufacturers and operators)
+<br><br>
 
 `2014-2018`
 __<a href="https://www.f-secure.com/en/vpn">F-Secure Freedome VPN & VPN SDK <i class="fa-solid fa-link"></i></a>__ (Privacy Protection)
