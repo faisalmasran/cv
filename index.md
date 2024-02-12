@@ -89,9 +89,7 @@ Sed porttitor, magna ut sodales cursus, purus mauris interdum orci, vel dictum t
 ## Project Experience
 
 `2022-2024`
-<a href="https://www.f-secure.com/en/total">
-__F-Secure Total__ (Security Suite)
-</i class="fa-solid fa-link"></a>
+__<a href="https://www.f-secure.com/en/total">F-Secure Total<i class="fa-solid fa-link"></i></a>__ (Security Suite)
 
 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed semper ex tortor, at suscipit erat euismod sed. Aenean feugiat feugiat ipsum, et dapibus ligula consectetur at. Vestibulum non risus massa. Mauris tincidunt nisi vel enim placerat dapibus. Maecenas nec ullamcorper sem. Quisque varius vestibulum egestas. Phasellus sollicitudin blandit imperdiet. Mauris porta dolor pellentesque, tincidunt nisi eu, aliquam lectus. Interdum et malesuada fames ac ante ipsum primis in faucibus. Praesent vel blandit enim, a mattis turpis. Phasellus ante metus, pellentesque sit amet ullamcorper et, lobortis id nulla. Sed in libero in felis rutrum rhoncus. Donec sodales nisl nec neque sollicitudin, sit amet pretium quam pellentesque. 
 <br><br>
