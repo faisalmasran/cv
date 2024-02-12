@@ -91,7 +91,19 @@ While working as a Quality Engineer in the regional office in different timezone
 `2022-2024`
 __<a href="https://www.f-secure.com/en/total">F-Secure Total <i class="fa-solid fa-link"></i></a>__ (Security Suite)
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed semper ex tortor, at suscipit erat euismod sed. Aenean feugiat feugiat ipsum, et dapibus ligula consectetur at. Vestibulum non risus massa. Mauris tincidunt nisi vel enim placerat dapibus. Maecenas nec ullamcorper sem. Quisque varius vestibulum egestas. Phasellus sollicitudin blandit imperdiet. Mauris porta dolor pellentesque, tincidunt nisi eu, aliquam lectus. Interdum et malesuada fames ac ante ipsum primis in faucibus. Praesent vel blandit enim, a mattis turpis. Phasellus ante metus, pellentesque sit amet ullamcorper et, lobortis id nulla. Sed in libero in felis rutrum rhoncus. Donec sodales nisl nec neque sollicitudin, sit amet pretium quam pellentesque. 
+F-Secure Total is a single app that consist of multiple sub-product/feature in which the end user can customized and choose which specific feature that they want, instead of downloading multiple standalone app.
+
+As a Solution Lead Quality Engineer, I work closely with each of the sub-product/feature teams by conducting/hosting a bi-weekly and monthly sync meeting such as solution level quality status sync meeting; test automation development and demo meeting; quality engineering community of practise meeting.
+
+I am also responsible for:
+  <br> • Medium to long term solution level strategy proposal and planning
+  <br> • Solution level quality status check and tasks delegation
+  <br> • Globally shared quality assurance process guidelines and recommendataion
+  <br> • Company wide periodic (e.g. quarterly) testing activities (testing sessions)
+  <br> • Establishing internal quality engineering community
+  <br> • Writing beta testing process and handling feedback from external users
+  <br> • Monitor and propose resouring related changes such as engineers, hardware, software or tooling
+
 <br><br>
 
 `2018-2022`
