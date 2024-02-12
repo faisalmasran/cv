@@ -49,7 +49,7 @@ __Sekolah Kebangsaan Seri Sekamat, Malaysia__
 
 ## Certification
 
-__International Software Testing Qualifications Board (<a href="https://www.istqb.org/">ISTQB <i class="fa-solid fa-link"></i></a>)__
+__<a href="https://www.istqb.org/">International Software Testing Qualifications Board (ISTQB) <i class="fa-solid fa-link"></i></a>__
   <br>`2010` • <a href="https://faisalmasran.com/ctfl">Certified Tester Foundation Level (CTFL) <i class="fa-solid fa-link"></i></a>
 
 
