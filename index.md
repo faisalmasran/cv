@@ -53,11 +53,11 @@ __<a href="https://www.istqb.org/">International Software Testing Qualifications
   <br>`2010` • <a href="https://faisalmasran.com/ctfl">Certified Tester Foundation Level (CTFL) <i class="fa-solid fa-link"></i></a>
 
 
-## Career Summary
+## <a href="https://faisalmasran.com/xp"><i class="fa-solid fa-link"></i> Career Summary</a>
 
 __<a href="https://www.f-secure.com/en">F-Secure Oyj, Helsinki, Finland <i class="fa-solid fa-link"></i></a>__
-  <br>`2022-2024` • <a href="https://faisalmasran.com/img/diagram/Solution-Lead-QE.jpg">Solution Lead Quality Engineer <i class="fa-solid fa-link"></i></a>
-  <br>`2018-2022` • <a href="https://faisalmasran.com/img/diagram/Solution-Lead-QE.jpg">Lead Quality Engineer <i class="fa-solid fa-link"></i></a>
+  <br>`2022-2024` • <a href="https://faisalmasran.com/img-slqe">Solution Lead Quality Engineer <i class="fa-solid fa-link"></i></a>
+  <br>`2018-2022` • <a href="https://faisalmasran.com/img-slqe">Lead Quality Engineer <i class="fa-solid fa-link"></i></a>
   <br>`2015-2022` • Quality Engineering Line Manager (Additional role)
   <br>`2013-2018` • Senior Quality Engineer
   <br>`2012-2013` • Quality Engineer
