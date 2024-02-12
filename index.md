@@ -75,13 +75,13 @@ __<a href="https://www.f-secure.com/en">F-Secure Corp. (M) Sdn. Bhd., Kuala Lump
 `2015-2022`
 __Quality Engineering Line Manager__
 
-Nam in arcu enim. Mauris sollicitudin vehicula ligula et tincidunt. Vivamus fringilla vel urna scelerisque rutrum. Maecenas sollicitudin felis leo. Suspendisse potenti. Suspendisse eros turpis, fermentum laoreet convallis condimentum, pretium quis lacus. Proin tristique quam neque.
+While working as a Senior and Lead Quality Engineer, I also assigned with a parallel role as a line manager for the quality engineers in my team. I was responsible for recruiting, managing and mentoring full-time employee as well as fixed-term contractors and trainees. I conduct bi-weekly one-on-one meeting with my sub-ordinates mainly to listen about what and how I can help them with their work and technical competencies. I discuss and agree about their career objective and provide technical and mental support for them to archieve the goal. From a wider perspective, I evaluate and make proposal if there any need for new resources in terms of engineers, hardwares or softwares.
 <br><br>
 
 `2011-2012`
 __Chief Quality Engineer__
 
-Sed porttitor, magna ut sodales cursus, purus mauris interdum orci, vel dictum tellus ante in nisl. Nunc vehicula lorem vel tempus vehicula. Phasellus sed nisl at est volutpat commodo sit amet a massa. Pellentesque luctus venenatis elit at laoreet. Aenean commodo, urna sit amet dictum iaculis, elit justo aliquet neque, et condimentum ipsum nisl vel turpis. Vestibulum placerat lobortis orci a lobortis. Phasellus feugiat condimentum diam, sed vehicula quam interdum ut. Ut tempus gravida dignissim. Nulla rutrum turpis ac eleifend pretium. Pellentesque et ipsum eget nunc consectetur egestas. Mauris a enim eget erat lobortis pharetra. Nulla facilisi. Quisque ac tincidunt diam. 
+While working as a Quality Engineer in the regional office in different timezone, I am responsible to allocate and mentoring quality engineers and trainee to any project that need them. I monitor the resourcing status and report back to the main office if there are any new need or lack thereof. In terms of product related work, I conduct bi-weekly meeting with quality engineers from multiple teams and produce product quality status report.
 <br><br>
 
 
