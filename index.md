@@ -34,7 +34,7 @@ Highly experience quality engineering professional
 ## Education
 
 __<a href="https://www.mmu.edu.my">Multimedia University, Malaysia <i class="fa-solid fa-link"></i></a>__
-  <br>`2003-2009` • B. Eng. (Hons) Electronics majoring in Robotics and Automation
+  <br>`2003-2009` • <a href="https://faisalmasran.com/degree-ecert">B. Eng. (Hons) Electronics majoring in Robotics and Automation <i class="fa-solid fa-link"></i></a>
   <br>`2001-2002` • Foundation study in Engineering
   
 __<a href="https://en.wikipedia.org/wiki/Technical_Institute_of_Kuala_Lumpur">Technical Institute Kuala Lumpur (TIKL), Malaysia <i class="fa-solid fa-link"></i></a>__
