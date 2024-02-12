@@ -33,7 +33,7 @@ Highly experience quality engineering professional
 
 ## Education
 
-__<a href="https://www.mmu.edu.my">Multimedia University, Malaysia <i class="fa-solid fa-link"></a>__
+__<a href="https://www.mmu.edu.my">Multimedia University, Malaysia <i class="fa-solid fa-link"></i></a>__
   <br>`2003-2009` • B. Eng. (Hons) Electronics majoring in Robotics and Automation
   <br>`2001-2002` • Foundation study in Engineering
   
@@ -49,20 +49,20 @@ __Sekolah Kebangsaan Seri Sekamat, Malaysia__
 
 ## Certification
 
-__International Software Testing Qualifications Board (<a href="https://www.istqb.org/">ISTQB <i class="fa-solid fa-link"></a>)__
+__International Software Testing Qualifications Board (<a href="https://www.istqb.org/">ISTQB <i class="fa-solid fa-link"></i></a>)__
   <br>`2010` • <a href="https://faisalmasran.com/ctfl">Certified Tester Foundation Level (CTFL) <i class="fa-solid fa-link"></i></a>
 
 
 ## Career Summary
 
-__<a href="https://www.f-secure.com/en">F-Secure Oyj, Helsinki, Finland <i class="fa-solid fa-link"></a>__
+__<a href="https://www.f-secure.com/en">F-Secure Oyj, Helsinki, Finland <i class="fa-solid fa-link"></i></a>__
   <br>`2022-2024` • Solution Lead Quality Engineer
   <br>`2018-2022` • Lead Quality Engineer
   <br>`2015-2022` • Quality Engineering Line Manager (Additional role)
   <br>`2013-2018` • Senior Quality Engineer
   <br>`2012-2013` • Quality Engineer
   
-__<a href="https://www.f-secure.com/en">F-Secure Corp. (M) Sdn. Bhd., Kuala Lumpur, Malaysia <i class="fa-solid fa-link"></a>__
+__<a href="https://www.f-secure.com/en">F-Secure Corp. (M) Sdn. Bhd., Kuala Lumpur, Malaysia <i class="fa-solid fa-link"></i></a>__
   <br>`2011-2012` • Chief Quality Engineer (Additional role)
   <br>`2009-2012` • Quality Engineer
   <br>`2008-2009` • Junior Quality Engineer
@@ -91,25 +91,25 @@ Sed porttitor, magna ut sodales cursus, purus mauris interdum orci, vel dictum t
 `2022-2024`
 <a href="https://www.f-secure.com/en/total">
 __F-Secure Total__ (Security Suite)
-<i class="fa-solid fa-link"></a>
+</i class="fa-solid fa-link"></a>
 
 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed semper ex tortor, at suscipit erat euismod sed. Aenean feugiat feugiat ipsum, et dapibus ligula consectetur at. Vestibulum non risus massa. Mauris tincidunt nisi vel enim placerat dapibus. Maecenas nec ullamcorper sem. Quisque varius vestibulum egestas. Phasellus sollicitudin blandit imperdiet. Mauris porta dolor pellentesque, tincidunt nisi eu, aliquam lectus. Interdum et malesuada fames ac ante ipsum primis in faucibus. Praesent vel blandit enim, a mattis turpis. Phasellus ante metus, pellentesque sit amet ullamcorper et, lobortis id nulla. Sed in libero in felis rutrum rhoncus. Donec sodales nisl nec neque sollicitudin, sit amet pretium quam pellentesque. 
 <br><br>
 
 `2018-2022`
-__<a href="https://www.f-secure.com/en/partners/solutions-and-services/connected-home-security">F-Secure Sense & Sense SDK <i class="fa-solid fa-link"></a>__ (Connected Home Security)
+__<a href="https://www.f-secure.com/en/partners/solutions-and-services/connected-home-security">F-Secure Sense & Sense SDK <i class="fa-solid fa-link"></i></a>__ (Connected Home Security)
 
 Cras varius accumsan augue, quis lacinia lectus rutrum vel. Ut id justo nulla. Nunc rutrum turpis sed feugiat suscipit. Nullam elit sapien, auctor vitae erat non, dignissim bibendum justo. Pellentesque accumsan sem sed turpis viverra, ut tempus lacus dignissim. Curabitur blandit ipsum porttitor libero sodales, eu volutpat orci scelerisque. Nulla facilisi. Duis tempor risus eu mauris viverra, ultrices finibus lacus volutpat. Nulla rhoncus ex vitae ultrices cursus. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Quisque lobortis at nibh scelerisque tempus. Nulla condimentum eros a tellus porta condimentum. Maecenas vulputate ante justo, et lobortis est interdum in. Maecenas eget nulla nec sem euismod laoreet. 
 <br><br>
 
 `2014-2018`
-__<a href="https://www.f-secure.com/en/vpn">F-Secure Freedome VPN & VPN SDK <i class="fa-solid fa-link"></a>__ (Privacy Protection)
+__<a href="https://www.f-secure.com/en/vpn">F-Secure Freedome VPN & VPN SDK <i class="fa-solid fa-link"></i></a>__ (Privacy Protection)
 
 Pellentesque eu est eget felis luctus congue sit amet at augue. Quisque varius aliquam sapien, vel pulvinar quam vehicula id. Morbi aliquam nibh quis tincidunt rutrum. Mauris ornare ultricies felis, non fermentum purus eleifend commodo. Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia curae; Maecenas sit amet mattis arcu, at faucibus urna. Praesent eget ipsum mi. Cras vel mauris eu arcu ornare dapibus vitae ac lorem. Donec eget ex sit amet metus euismod mollis a id nibh. In id metus fringilla, lobortis metus nec, faucibus odio. Vivamus aliquam justo quis neque consectetur, a ornare magna sagittis. Cras vulputate mauris lacus, et dapibus lorem porttitor eget. 
 <br><br>
 
 `2014-2018`
-__<a href="https://play.google.com/store/apps/details?id=com.fsecure.eicar.antivirus.test">F-Secure AV Test App <i class="fa-solid fa-link"></a>__
+__<a href="https://play.google.com/store/apps/details?id=com.fsecure.eicar.antivirus.test">F-Secure AV Test App <i class="fa-solid fa-link"></i></a>__
 
 Duis non vulputate lectus. Quisque sagittis augue id turpis commodo porta vel convallis tortor. Quisque ac urna ultrices, convallis elit facilisis, pellentesque felis. Maecenas vel metus ut velit blandit cursus. Phasellus eget ultricies odio, non accumsan ante. Aliquam a metus sit amet felis dignissim consectetur eu at tellus. Sed ornare massa arcu, sed aliquam purus vestibulum feugiat. Nullam auctor molestie nunc at lacinia. Praesent pellentesque vel sapien ornare molestie. Curabitur mattis commodo gravida. Vivamus id luctus nunc. Pellentesque varius nisi tortor, sit amet pretium nunc tincidunt eu. Sed sed varius sapien. Pellentesque rutrum pellentesque malesuada. Proin bibendum risus tortor, non tempor eros cursus sed. Sed sit amet diam ut est placerat egestas sed ac orci. 
 <br><br>
@@ -121,13 +121,13 @@ Ut efficitur in massa eu scelerisque. Phasellus dignissim turpis vel metus males
 <br><br>
 
 `2010-2014`
-__<a href="https://www.f-secure.com/en/internet-security">F-Secure Internet Security <i class="fa-solid fa-link"></a>__ (Online Safety)
+__<a href="https://www.f-secure.com/en/internet-security">F-Secure Internet Security <i class="fa-solid fa-link"></i></a>__ (Online Safety)
 
 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Mauris turpis magna, dapibus sit amet velit eget, eleifend facilisis est. Nam dignissim lectus justo, luctus bibendum augue maximus hendrerit. Proin at ultrices mi, sed malesuada lorem. Sed mollis aliquet diam, dictum laoreet nulla ultrices vitae. Integer pharetra lectus massa, ac consequat ipsum facilisis vitae. Fusce semper id justo non porttitor. Aliquam faucibus, purus et volutpat aliquam, nisi dui aliquam dolor, a ultricies turpis elit vitae sapien. Ut quis lectus sagittis ante ultrices laoreet. Praesent feugiat vulputate enim ac venenatis. Suspendisse ipsum nisl, lacinia ut pellentesque et, sodales eget dolor. Phasellus posuere, augue a tempus laoreet, nibh urna tincidunt lacus, eu rhoncus sapien sem eu arcu. Curabitur id velit nec nibh convallis rhoncus. Praesent nunc est, commodo sed maximus sit amet, consequat vel nisi. Fusce id pretium eros, lacinia faucibus quam. 
 <br><br>
 
 `2010-2010`
-__<a href="https://www.f-secure.com/en/internet-security">F-Secure Internet Security <i class="fa-solid fa-link"></a>__ (Service Agent - Common Settings)
+__<a href="https://www.f-secure.com/en/internet-security">F-Secure Internet Security <i class="fa-solid fa-link"></i></a>__ (Service Agent - Common Settings)
 
 Cras et posuere sem. Curabitur a eros id urna dictum tempor sed quis magna. Curabitur euismod faucibus tellus eu cursus. Aenean scelerisque tincidunt tellus, non aliquet metus tempus eu. Sed ac erat rutrum, faucibus nunc et, gravida ipsum. Aenean non sapien est. Aliquam vitae lacus nisi. Cras ultrices, risus ac tempor pellentesque, justo mauris luctus lacus, luctus porttitor nunc augue eget est. Suspendisse sed lectus sit amet nunc tristique ornare in ut erat. 
 <br><br>
@@ -145,7 +145,7 @@ Suspendisse vel massa neque. Morbi efficitur ultricies libero non luctus. Sed la
 <br><br>
 
 `2099-2099`
-__<a href="https://www.f-secure.com/en/online-scanner">F-Secure Online Services <i class="fa-solid fa-link"></a>__ (Online Scanner)
+__<a href="https://www.f-secure.com/en/online-scanner">F-Secure Online Services <i class="fa-solid fa-link"></i></a>__ (Online Scanner)
 
 Pellentesque euismod, sapien at maximus posuere, nisi lacus aliquet mauris, sit amet ornare diam nisl eget diam. Sed ipsum massa, dictum non turpis vitae, vestibulum suscipit arcu. Proin tincidunt pretium lorem ac faucibus. Donec eget elit nec sem posuere interdum. Duis interdum, neque at faucibus tristique, lectus sapien consectetur urna, a scelerisque quam diam non magna. Proin vel sodales purus. Pellentesque semper aliquet justo, ac dapibus massa feugiat non. Donec sit amet justo semper, pulvinar mi eget, porttitor elit. 
 <br><br>
