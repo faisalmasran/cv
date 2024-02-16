@@ -112,6 +112,8 @@ __<a href="https://www.f-secure.com/en/total">F-Secure Total <i class="fa-solid 
 
 Doing medium to long term reseach, planning and proposal related to future Quality Assurance tasks
 
+Doing medium to long term research on quality assurance strategy and short term tactical test coordination on mobile apps (Android, iOS) and desktop software (Windows, macOS). Coordinate and follow-up test automation acceleration initiatives. Conduct/host monthly Quality Engineering Community of Practice (CoP-QE) and Quality Engineering sync across various product teams.
+
 F-Secure Total is a single app that consist of multiple sub-product/feature in which the end user can customized and choose which specific feature that they want, instead of downloading multiple standalone app.
 
 As a Solution Lead Quality Engineer, I work closely with each of the sub-product/feature teams by conducting/hosting a bi-weekly and monthly sync meeting such as solution level quality status sync meeting; test automation development and demo meeting; quality engineering community of practise meeting.
@@ -130,6 +132,8 @@ I am also responsible for:
 __<a href="https://www.f-secure.com/en/partners/solutions-and-services/connected-home-security">F-Secure Sense & Sense SDK <i class="fa-solid fa-link"></i></a>__ (Connected Home Security)
 
 Manual and test automation on Embedded Linux in various home routers; Android and iOS app; and Linux-based backend services.
+
+Doing manual and test automation on home router (embedded Linux), mobile apps (Android & iOS) and backend services (AWS). Also build proper (instead of ad-hoc) network test lab (Routers and IoT devices) and connect them to continuous-integration (auto-build, auto-test) infrastructure.
 
 F-Secure Sense is an embedded security product inside a home router that protects all devices that are connected to its network.
 
@@ -156,6 +160,7 @@ As a Lead Quality Engineer for this product, I am responsible for
 __<a href="https://www.f-secure.com/en/vpn">F-Secure Freedome VPN & VPN SDK <i class="fa-solid fa-link"></i></a>__ (Privacy Protection)
 
 Manual and test automation Android and iOS app; Windows and macOS software; and Linux-based backend services.
+Doing manual and test automation on mobile apps (Android & iOS), desktop sofware (Windows & macOS) and backend services (Linux-based). Also build continuous-integration (auto-build, auto-test) infrastructure for Android app and macOS software.
 
 Pellentesque eu est eget felis luctus congue sit amet at augue. Quisque varius aliquam sapien, vel pulvinar quam vehicula id. Morbi aliquam nibh quis tincidunt rutrum. Mauris ornare ultricies felis, non fermentum purus eleifend commodo. Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia curae; Maecenas sit amet mattis arcu, at faucibus urna. Praesent eget ipsum mi. Cras vel mauris eu arcu ornare dapibus vitae ac lorem. Donec eget ex sit amet metus euismod mollis a id nibh. In id metus fringilla, lobortis metus nec, faucibus odio. Vivamus aliquam justo quis neque consectetur, a ornare magna sagittis. Cras vulputate mauris lacus, et dapibus lorem porttitor eget. 
 <br><br>
@@ -180,6 +185,7 @@ Ut efficitur in massa eu scelerisque. Phasellus dignissim turpis vel metus males
 __<a href="https://www.f-secure.com/en/internet-security">F-Secure Internet Security <i class="fa-solid fa-link"></i></a>__ (Online Safety)
 
 Manual and test automation Windows software and Web Browser plugin/extension
+Doing manual and test automation on Windows softwares and Web Browser plugin/extension. Also build continuous-integration (auto-build, auto-test) infrastructure (Jenkins) for building Windows software.
 
 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Mauris turpis magna, dapibus sit amet velit eget, eleifend facilisis est. Nam dignissim lectus justo, luctus bibendum augue maximus hendrerit. Proin at ultrices mi, sed malesuada lorem. Sed mollis aliquet diam, dictum laoreet nulla ultrices vitae. Integer pharetra lectus massa, ac consequat ipsum facilisis vitae. Fusce semper id justo non porttitor. Aliquam faucibus, purus et volutpat aliquam, nisi dui aliquam dolor, a ultricies turpis elit vitae sapien. Ut quis lectus sagittis ante ultrices laoreet. Praesent feugiat vulputate enim ac venenatis. Suspendisse ipsum nisl, lacinia ut pellentesque et, sodales eget dolor. Phasellus posuere, augue a tempus laoreet, nibh urna tincidunt lacus, eu rhoncus sapien sem eu arcu. Curabitur id velit nec nibh convallis rhoncus. Praesent nunc est, commodo sed maximus sit amet, consequat vel nisi. Fusce id pretium eros, lacinia faucibus quam. 
 <br><br>
@@ -218,6 +224,7 @@ Pellentesque euismod, sapien at maximus posuere, nisi lacus aliquet mauris, sit 
 __F-Secure Online Services__ (Easy Clean)
 
 Manual and test automation online web application
+Doing manual and automated testing web application in various Windows platform internet browsers.
 
 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis arcu quam, eleifend eget sem nec, lacinia tempus massa. Duis metus augue, egestas sit amet tellus eu, varius suscipit tortor. Nulla vitae tellus vitae nibh egestas facilisis. Donec eget vehicula felis. Donec convallis massa eget venenatis venenatis. Praesent ac metus tristique, euismod justo a, malesuada ex. Fusce eu tortor fermentum eros porta consequat at non risus. Maecenas imperdiet gravida feugiat. Sed gravida, sapien vitae eleifend tempor, ex nulla dignissim dui, quis ultrices libero tortor ac purus. Sed pulvinar pulvinar scelerisque. Ut in bibendum magna, eget rhoncus ligula. Maecenas lorem massa, eleifend at dictum eu, sodales vel felis. Phasellus hendrerit est ex, id luctus neque malesuada eu.
 <br><br>
@@ -226,6 +233,7 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis arcu quam, eleifen
 __F-Secure Online Services__ (Health Check)
 
 Manual and test automation online web application
+Doing manual and automated testing web application in various Windows platform internet browsers.
 
 Donec sodales viverra nunc vitae sagittis. Integer nec finibus nunc, eu consectetur enim. Donec non leo erat. Praesent tristique mi massa, sit amet sodales magna consectetur nec. Proin ac est vitae arcu vestibulum eleifend at eget libero. Integer vestibulum orci erat, vel suscipit enim aliquet non. Sed molestie sem vel magna bibendum tristique. Aliquam pretium tempus vestibulum. Nam id nulla massa. Curabitur eget mauris in eros vulputate laoreet eget quis sem. 
 <br><br>
